@@ -3,5 +3,3 @@ requests==2.32.3
 # optional markers are allowed:
 pydantic==2.8.2 ; python_version >= "3.9"
 
-env:
-  APP_DIR: .
